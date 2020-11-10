@@ -1,3 +1,3 @@
 <?php
-        include("contador.html");
+        include("index.html");
 ?>
